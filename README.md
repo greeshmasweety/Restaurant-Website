@@ -38,15 +38,21 @@ cd spicesoul
 No additional installations or dependencies are required.
 <h2>📖 Website Sections</h2>
 <h2>🏠 Home</h2>
+
 <img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/5fe02d43-6a26-4a1e-8080-84c9f32cbe96" />
+
 <h2>ℹ️ About Us</h2>
 Provides information about the restaurant's mission, values, and dining experience.
+
 <img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/5a39e033-4ef9-41e5-80c4-ce0b13dc6f0d" />
 
 <h2>🍽️ Menu</h2>
 Displays a variety of dishes with images and pricing.
+
 <img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/2b95d9b0-a643-41b5-ae47-0cc4be710012" />
+
 <img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/e7b822fa-7c78-4268-b0bf-fbcf1761d36a" />
+
 <h2>📞 Contact</h2>
 Includes:
 - Phone Number
