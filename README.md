@@ -1,3 +1,5 @@
+<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/c3e20a49-a519-45ab-a78f-65b5c8698ca3" />
+
 A modern, responsive restaurant website built with pure HTML, CSS, and JavaScript — showcasing the menu, story, and contact details of SpiceSoul, a passionate Indian dining experience.
 <h2> Live Preview</h2>
 url:curious-cobbler-91ec2b.netlify.app
