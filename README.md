@@ -21,7 +21,6 @@ url:curious-cobbler-91ec2b.netlify.app
 - JavaScript
 - 📂 Project Structure
 
-```
 SpiceSoul/
 │
 ├── index.html      # Main webpage
